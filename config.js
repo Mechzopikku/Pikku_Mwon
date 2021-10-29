@@ -34,7 +34,7 @@ module.exports = {
     ADDMSG: process.env.ADD_MESSAGE === undefined ? 'default' : process.env.ADD_MESSAGE,
     THERI_BLOCK: process.env.THERI_BLOCK === undefined ? false : process.env.THERI_BLOCK,
     MUTEMSG: process.env.MUTE_MESSAGE === undefined ? 'default' : process.env.MUTE_MESSAGE,
-    BOTPLK: process.env.BOT_NAME === undefined ? 'Ajuser' : process.env.BOT_NAME,
+    BOTPLK: process.env.BOT_NAME === undefined ? 'Pikku Mwon' : process.env.BOT_NAME,
     SONGD: process.env.SONGD === undefined ? 'ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ...' : process.env.SONGD,
     SONGU: process.env.SONGU === undefined ? 'ᴜᴘʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ...' : process.env.SONGU,
     NOLOG: process.env.NO_LOG === undefined ? 'false' : process.env.NO_LOG,
@@ -59,7 +59,7 @@ module.exports = {
     TAGPLK: process.env.TAG_HEADER === undefined ? 'zara' : process.env.TAG_HEADER,
     HANDLERS: process.env.HANDLERS === undefined ? '^[.!;]' : process.env.HANDLERS,
     SEND_READ: process.env.SEND_READ === undefined ? false : convertToBool(process.env.SEND_READ),
-    MAHN: process.env.MAAN === undefined ? '919072790887,0' : process.env.MAAN,
+    MAHN: process.env.MAAN === undefined ? '918086567984,0' : process.env.MAAN,
     BRANCH: 'master',
     HEROKU: {
         HEROKU: process.env.HEROKU === undefined ? false : convertToBool(process.env.HEROKU),
