@@ -1,20 +1,20 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Ajuser_v2+WA+Bot...;Created+by+Aju....;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Pikku_Mwon+WA+Bot...;Created+by+Mechzo....;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
 
 
 <div align="center">
   <a href="https://ibb.co/4wyvT9j"><img src="IMG-20211027-WA0091.jpg""width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="Ajuser_v2" src="https://img.shields.io/badge/-Ajuser-red?&style=for-the-badge"></a>
+<a href="#"><img title="Pikku_Mwon" src="https://img.shields.io/badge/-MECHZO MCZ-red?&style=for-the-badge"></a>
 </p>
   </p>
 <p align="center">
-<a href="https://github.com/aju001"><img title="aju" src="https://img.shields.io/badge/author-aju001?color=blue&style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Mechzopikku"><img title="aju" src="https://img.shields.io/badge/author-Mechzopikku?color=blue&style=for-the-badge&logo=github"></a>
 
 </div>
 <p align="center">
-Project created by <a href="https://github.com/aju001">aju</a> to make it public
+Project created by <a href="https://github.com/Mechzopikku">aju</a> to make it public
     <br>
        | © |
         Reserved |
@@ -24,13 +24,13 @@ Project created by <a href="https://github.com/aju001">aju</a> to make it public
 ----
 
   <p align="center">
-  <a href="https://github.com/aju001/Ajuser_v2 ">
-    <img src="https://img.shields.io/github/repo-size/aju001/Ajuser_v2?color=red&label=Repo%20total%20size&style=flat-square">
+  <a href="https://github.com/Mechzopikku/Pikku_Mwon ">
+    <img src="https://img.shields.io/github/repo-size/Mechzopikku/Pikku_Mwon?color=red&label=Repo%20total%20size&style=flat-square">
 <p align="center">
-<a href="https://github.com/aju001/followers"><img title="Followers" src="https://img.shields.io/github/followers/aju001?color=grey&style=plastic"></a>
-<a href="https://github.com/aju001/Ajuser_v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/aju001/Ajuser?color=grey&style=plastic"></a>
-<a href="https://github.com/aju001/Ajuser_v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/aju001/Ajuser_v2?color=grey&style=plastic"></a>
-<a href="https://github.com/aju001/Ajuser_v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/aju001/Ajuser_v2?label=Watchers&color=grey&style=flat-circle"></a>
+<a href="https://github.com/Mechzopikku/followers"><img title="Followers" src="https://img.shields.io/github/followers/Mechzopikku?color=grey&style=plastic"></a>
+<a href="https://github.com/Mechzopikku/Pikku_Mwon/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mechzopikku/MECHZO?color=grey&style=plastic"></a>
+<a href="https://github.com/Mechzopikku/Pikku_Mwon/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mechzopikku/Pikku_Mwon?color=grey&style=plastic"></a>
+<a href="https://github.com/Mechzopikku/Pikku_Mwon/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Mechzopikku/Pikku_Mwon?label=Watchers&color=grey&style=flat-circle"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-red.svg"</a>
 <h3 align="center">Contact Me:</h3>
 
@@ -38,7 +38,7 @@ Project created by <a href="https://github.com/aju001">aju</a> to make it public
     
 <p align="center">
 
-<a href="https://instagram.com/__ajuz___001?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/s_hadin_04?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 
 </p>
 
@@ -49,7 +49,7 @@ Project created by <a href="https://github.com/aju001">aju</a> to make it public
 <a href="https://youtu.be/dm_kVZ0m2eY" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 ```
   
-Ajuser_v2 Userbot is Open Source software open to development. 
+Pikku_Mwon Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
@@ -70,9 +70,9 @@ the user is responsible.
 
   ### <u> Simple Method <u>
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@aju0011/Ajuserv2-Qr)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Mechzopikku/Pikku_Mwon-Qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aju001/Ajuser_v2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mechzopikku/Pikku_Mwon)
      </div>
 <br>
 <br >
@@ -86,8 +86,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/aju001/Ajuser_v2
-$ cd Ajuser_v2
+$ git clone https://github.com/Mechzopikku/Pikku_Mwon
+$ cd Pikku_Mwon
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -96,8 +96,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/aju001/Ajuser_v2
-$ cd Ajuser_v2
+$ git clone https://github.com/Mechzopikku/Pikku_Mwon
+$ cd Pikku_Mwon
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -108,7 +108,7 @@ $ node bot.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-<a href="https://chat.whatsapp.com/E5UG3iYJ5d62LrTdZq7pXP"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://chat.whatsapp.com/JtB4JCKzOrJAcpmSkHho2G"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
   <div align="center">
 
     
@@ -135,9 +135,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![aju](https://github.com/aju001.png?size=100)](https://github.com/aju001)
+  [![aju](https://github.com/Mechzopikku.png?size=100)](https://github.com/Mechzopikku)
 
-[aju](https://github.com/aju001)  
+[aju](https://github.com/Mechzopikku)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
 
