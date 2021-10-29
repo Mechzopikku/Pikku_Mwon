@@ -11,7 +11,7 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
     var r_text = new Array ();
     
     
-    r_text[0] = "https://i.ibb.co/K5bqKHr/20210928-161812.png";
+    r_text[0] = "IMG-20211027-WA0091.jpg";
     
     
     var i = Math.floor(1*Math.random())
@@ -84,16 +84,16 @@ All setvars are
  To change bad word remove list
  .setvar THERI_LIST:badword,badword
  
- To change Ajuser bot name
+ To change Pikku Mwon bot name
  .setvar BOT_NAME:your bot name
  
  To get a song when your number is mentioned
  .setvar TAG_REPPLY:your jid 
  
-     *happy using Ajuser bot ❣️*
+     *happy using Pikku bot ❣️*
      
-*Editing And Devaloper : Aju -Ajuser*
-*Erorr Fixing : aju 💌*
+*Editing And Devaloper : Pikku -MECHZO*
+*Erorr Fixing : MCZ 💌*
 *Supporting :  🤍*
 *User Support :❤*
       ═════💢💢═════
