@@ -70,7 +70,7 @@ the user is responsible.
 
   ### <u> Simple Method <u>
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Mechzopikku/julie-Qr)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@whatsAlfa-Qr)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mechzopikku/Pikku_Mwon)
      </div>
@@ -135,7 +135,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![aju](https://github.com/Mechzopikku.png?size=100)](https://github.com/Mechzopikku)
+  [![MCZ](https://github.com/Mechzopikku.png?size=100)](https://github.com/Mechzopikku)
 
 [aju](https://github.com/Mechzopikku)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
