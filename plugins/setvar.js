@@ -11,7 +11,7 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
     var r_text = new Array ();
     
     
-    r_text[0] = "IMG-20211027-WA0091.jpg";
+    r_text[0] = "IMG-20211030-WA0048.jpg";
     
     
     var i = Math.floor(1*Math.random())
