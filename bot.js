@@ -288,7 +288,7 @@ async function whatsAsena () {
 
                 var ov_time = new Date().toLocaleString('EN', { timeZone: 'Asia/Kolkata' }).split(' ')[1]
 
-                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n    Ajuser'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n    pïkkü mcz ✓'
 
                 await conn.setStatus(biography)
 
